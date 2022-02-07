@@ -1,5 +1,5 @@
-## Web Scraping:
- ** Requests
- ** Beautiful Soup
- ** Selenium
- ** Scrapy Framework
+## Web Scraping
+ * Requests
+ * Beautiful Soup
+ * Selenium
+ * Scrapy Framework
